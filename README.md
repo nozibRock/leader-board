@@ -1,3 +1,3 @@
 # leader-board
 
-Live Website: [click me]()
+Live Website: [click me](https://nozibrock.github.io/leader-board/)
